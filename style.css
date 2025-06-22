@@ -1,0 +1,18 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    text-align: center;
+}
+
+.screen {
+    display: block;
+    margin: 0 auto;
+    max-width: 800px;
+    max-height: 440px;
+}
+
+.description {
+    text-align: center;
+}
